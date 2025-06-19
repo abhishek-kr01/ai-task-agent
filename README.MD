@@ -100,14 +100,13 @@ Low Priority:
 
 ---
 
-## 📁 File Structure
-
-```
 ai-task-agent/
 ├── task_agent.py         # Main script
 ├── tasks.txt             # Your task input file
 ├── .env.example          # Template for env file (no key included)
+├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
+
 ```
 
 ---
